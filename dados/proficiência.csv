@@ -1,0 +1,5 @@
+ID_PROFICIENCIA,FAIXA DE PROFICIENCIA,NÍVEL_ORDEM,DESCRIÇÃO
+1,Abaixo do Básico,1,Desempenho muito abaixo do esperado para a etapa escolar.
+2,Básico,2,"Desempenho inicial, com domínio parcial dos conteúdos."
+3,Adequado,3,Desempenho dentro do esperado para a etapa escolar.
+4,Avançado,4,"Desempenho acima do esperado, com domínio consolidado"
