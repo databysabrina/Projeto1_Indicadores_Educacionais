@@ -7,6 +7,7 @@ Este documento detalha a estrutura das tabelas, tipos de dados e as definições
 - [Tabela Fato](#tabela-fato-avalia)
 - [Métricas Analíticas](#novas-métricas)
 
+
 ## Convenção de Tipagem utilizada nesta documentação:
 * **`Int4`:** Campos destinados a chaves primárias ou valores numéricos sem casas decimais (como quantidade de acertos ou idade).
 * **`Varchar(50)`:** Campos de texto alfanumérico limitados, ideais para nomes de turmas, nomes de alunos ou classificações (como "Básico", "Adequado"), garantindo a economia de armazenamento no banco.
