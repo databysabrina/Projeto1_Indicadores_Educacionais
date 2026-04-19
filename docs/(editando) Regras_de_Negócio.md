@@ -54,4 +54,4 @@ A aplicação rigorosa das premissas descritas neste documento garantiu que a ba
 * **Cálculos:** DAX (Power BI) para cálculos de medidas dinâmicas e indicadores de performance.
 * **Visualização:** Layout personalizado (Canva/Power BI) focado em usabilidade e contraste, utilizando cores semafóricas para facilitar a leitura rápida dos níveis de proficiência.
 
-[⬅️ Voltar para o README Principal]([../README.md](https://github.com/databysabrina/Projeto_Indicadores_Educacionais/blob/main/README.md))
+[⬅️ Voltar para o README Principal](https://github.com/databysabrina/Projeto_Indicadores_Educacionais/blob/main/README.md)
