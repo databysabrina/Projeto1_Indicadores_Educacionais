@@ -1,14 +1,20 @@
 # 📖 Dicionário de Dados
 
-## DADOS ORIGINAIS
+## Convenção de Tipagem utilizada nesta documentação:
+
+* INT4: Número inteiro (Chaves e contagens).
+* VARCHAR(50): Texto variável de até 50 caracteres (Nomes e categorias).
+* NUMERIC: Valor decimal (Cálculos de médias e porcentagens).
+
+## TABELAS ORIGINAIS
 #### Tabela Dimensão: Turmas
 OBS: Coluna ID_TURMA se conecta com coluna de mesmo nome na tabela AVALIA.
 | Coluna | Tipo | Descrição | Observações/Domínio |
 | :--- | :--- | :--- | :--- |
-| ID_TURMA | Integer (ARRUMAR DEPOIS, DBEAVER)| Chave primária da turma | Única por turma |
-| NOME_TURMA | Integer | Referência nominal da turma | Único por turma |
-| SÉRIE | Integer | Nível de Escolaridade | Todas as turmas pertencem ao 1º ano do ensino médio |
-| TURNO | Integer | Período em que frequentam as aulas | Turmas 1A e 1B estudam pela manhã, turmas 1C e 1D à tarde |
+| ID_TURMA | String| Chave primária da turma | Única por turma |
+| NOME_TURMA | String | Referência nominal da turma | Único por turma |
+| SÉRIE | String | Nível de Escolaridade | Todas as turmas pertencem ao 1º ano do ensino médio |
+| TURNO | String | Período em que frequentam as aulas | Turmas 1A e 1B estudam pela manhã, turmas 1C e 1D à tarde |
 
 
 #### Tabela Dimensão: Alunos
