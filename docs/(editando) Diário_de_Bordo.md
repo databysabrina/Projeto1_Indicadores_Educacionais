@@ -6,7 +6,7 @@
 * **Mapeamento de Nulos:** Através do 'COALESCE' e filtros de 'IS NULL', identifiquei campos críticos vazios em colunas como 'ID_TURMA' e 'TOTAL_QUESTOES'.
 * *Resultado do Diagnóstico:* Existiam inconsistências de diferentes dados e divergências entre o número de acertos e o nível de proficiência atribuído.
 > [!NOTE]
-> Veja os detalhes no script 01_LIMPEZA_ALUNOS.sql
+> Veja os detalhes no script [01_LIMPEZA_ALUNOS.sql](https://github.com/databysabrina/Projeto_Indicadores_Educacionais/blob/28b4a74631bb00c445c0c981331ea70d5227fd99/scripts%20SQL/00_VALIDA%C3%87%C3%83O_INICIAL.sql)
 > 
 
 #### 📅 Etapa 2: Limpeza e Modelagem de Dados (ETL)
@@ -14,6 +14,9 @@ Nesta fase, o foco foi a integridade técnica. Utilizou-se SQL (PostgreSQL) para
 * **Normalização:** Notas originalmente em 'VARCHAR' foram convertidas para 'NUMERIC' via 'ALTER COLUMN' com 'USING::integer/numeric', permitindo cálculos de média com precisão decimal.
 * **Tratamento de Inconsistências:** Implementei lógicas de 'CASE WHEN' para filtrar idades fora da faixa escolar (14-17 anos) e corrigi erros de digitação em IDs.
 * **Deduplicação:** Criei tabelas de "Dados Limpos" utilizando 'SELECT DISTINCT' para isolar registros únicos após o saneamento.
+> [!NOTE]
+> Veja os detalhes nos scripts [01_LIMPEZA_ALUNOS.sql](https://github.com/databysabrina/Projeto_Indicadores_Educacionais/blob/28b4a74631bb00c445c0c981331ea70d5227fd99/scripts%20SQL/00_VALIDA%C3%87%C3%83O_INICIAL.sql)
+>
 
 #### 📅 Etapa 3: Arquitetura e Modelagem Estrela
 * **Arquitetura:** Os dados foram organizados em um esquema de tabelas dimensões e fato (Avalia), facilitando o relacionamento e a performance.
