@@ -41,13 +41,17 @@ Nesta fase, o foco foi a integridade técnica. Utilizou-se SQL (PostgreSQL) para
 > [!NOTE]
 > Veja mais detalhes do **desenvolvimento de métricas** nos seguintes scripts:
 > * Tabela Analise Geral: [04_EXPLORAÇÃO_ANALISE_GERAL.sql](https://github.com/databysabrina/Projeto_Indicadores_Educacionais/blob/27fb5a59fee354a597d77b5ae86f56b593ff8b01/scripts%20SQL/04_EXPLORA%C3%87%C3%83O_ANALISE_GERAL.sql)
-> * Tabela Analise Turmas: [05_EXPLORAÇÃO_ANALISE_TURMAS.sql](https://github.com/databysabrina/Projeto_Indicadores_Educacionais/blob/9e53e8f507940aedce6f25a110ce1040c1d9196d/scripts%20SQL/02_LIMPEZA_AVALIA.sql)  
+> * Tabela Analise Turmas: [05_EXPLORAÇÃO_ANALISE_TURMAS.sql](https://github.com/databysabrina/Projeto_Indicadores_Educacionais/blob/4e31982c305d3b805723afea0748d00ef8c54947/scripts%20SQL/05_EXPLORA%C3%87%C3%83O_ANALISE_TURMAS.sql)  
 >
 
 #### 📅 Etapa 5: Visualização de Dados e UX (Power BI & Canva)
 * **Hierarquia Visual:** Utilizou-se cores semafóricas (roxo, amarelo, azul) para distinguir rapidamente as faixas de proficiência.
 * **Comparabilidade:** Criou-se um ranking de turmas baseado na média de proficiência para gerar insights competitivos, mas para fins pedagógicos.
-
+> [!NOTE]
+> Veja mais detalhes da visualização nos seguintes arquivos:
+> * [Assets](https://github.com/databysabrina/Projeto_Indicadores_Educacionais/blob/27fb5a59fee354a597d77b5ae86f56b593ff8b01/scripts%20SQL/04_EXPLORA%C3%87%C3%83O_ANALISE_GERAL.sql)
+> * [Power BI] (https://github.com/databysabrina/Projeto_Indicadores_Educacionais/blob/4e31982c305d3b805723afea0748d00ef8c54947/scripts%20SQL/05_EXPLORA%C3%87%C3%83O_ANALISE_TURMAS.sql)  
+>
 #### 📅 Etapa 6:Conclusão e Resultados Obtidos
 O projeto resultou em um ambiente de dados auditado e transparente.
 * **Impacto:** A gestão agora possui uma ferramenta de auditoria que aponta inconsistências e alunos que precisam de atenção imediata.
