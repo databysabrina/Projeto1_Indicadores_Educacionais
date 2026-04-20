@@ -6,7 +6,8 @@
 * **Mapeamento de Nulos:** Através do 'COALESCE' e filtros de 'IS NULL', identifiquei campos críticos vazios em colunas como 'ID_TURMA' e 'TOTAL_QUESTOES'.
 * *Resultado do Diagnóstico:* Existiam inconsistências de diferentes dados e divergências entre o número de acertos e o nível de proficiência atribuído.
 > [!NOTE]
-> Veja os detalhes no script [00_VALIDAÇÃO_INICIAL.sql](https://github.com/databysabrina/Projeto_Indicadores_Educacionais/blob/28b4a74631bb00c445c0c981331ea70d5227fd99/scripts%20SQL/00_VALIDA%C3%87%C3%83O_INICIAL.sql), [01_LIMPEZA_ALUNOS.sql](https://github.com/databysabrina/Projeto_Indicadores_Educacionais/blob/28b4a74631bb00c445c0c981331ea70d5227fd99/scripts%20SQL/00_VALIDA%C3%87%C3%83O_INICIAL.sql) 
+> Veja os detalhes no script [00_VALIDAÇÃO_INICIAL.sql](https://github.com/databysabrina/Projeto_Indicadores_Educacionais/blob/28b4a74631bb00c445c0c981331ea70d5227fd99/scripts%20SQL/00_VALIDA%C3%87%C3%83O_INICIAL.sql) para diagnóstico das tabelas 'turmas' e 'proficiencia', [01_LIMPEZA_ALUNOS.sql](https://github.com/databysabrina/Projeto_Indicadores_Educacionais/blob/e7456a8497daed56ab0be8dc4e86d3972f11fb8e/scripts%20SQL/01_LIMPEZA_ALUNOS.sql) para diagnóstico da tabela 'alunos', [02_LIMPEZA_AVALIA.sql](https://github.com/databysabrina/Projeto_Indicadores_Educacionais/blob/e7456a8497daed56ab0be8dc4e86d3972f11fb8e/scripts%20SQL/01_LIMPEZA_ALUNOS.sql) 
+>
 >
 
 #### 📅 Etapa 2: Limpeza e Modelagem de Dados (ETL)
