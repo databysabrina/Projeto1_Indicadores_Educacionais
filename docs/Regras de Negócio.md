@@ -54,4 +54,8 @@ A aplicação rigorosa das premissas descritas neste documento garantiu que a ba
 * **Cálculos:** DAX (Power BI) para cálculos de medidas dinâmicas e indicadores de performance.
 * **Visualização:** Layout personalizado (Canva/Power BI) focado em usabilidade e contraste, utilizando cores semafóricas para facilitar a leitura rápida dos níveis de proficiência.
 
+
+*Nota sobre Processamento: As premissas pedagógicas (faixas de idade, critérios de proficiência) foram definidas com base em diretrizes educacionais reais. A IA foi utilizada para estruturar estas premissas em formato técnico e revisá-las para maior clareza, mais detalhes nos docs Diário de Bordo e Regras do Negócio.*
+
+
 [⬅️ Voltar para o README Principal](https://github.com/databysabrina/Projeto_Indicadores_Educacionais/blob/main/README.md)
