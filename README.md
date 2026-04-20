@@ -59,17 +59,9 @@ O design foi planejado para ser funcional e direto:
 
 
 ## 👤 Autor
-**Sabrina da Silva** *Conecte-se comigo!* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
+**Sabrina da Silva** *Conecte-se comigo!* [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sabrina-da-silva-b4b333172)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.sabrinads@gmail.com)
 
 ---
 *Projeto desenvolvido para fins de portfólio em análise e engenharia de dados.*
 
-Dica para o seu GitHub:
-Imagens: Se possível, tire um print bem bonito do dashboard e coloque logo abaixo do título principal. Recrutadores adoram ver o visual antes do código.
-
-Caminhos: Verifique se os caminhos dos links (./scripts_SQL, etc.) estão batendo exatamente com os nomes das pastas que você criou no seu repositório.
-
-GIF: Se tiver o vídeo do dashboard, você pode convertê-lo em um pequeno GIF e colocar no README para dar movimento à página!
-* No GitHub, você pode colocar esse Journal no seu README.md principal sob o título "Como este projeto foi construído".
-* Isso "vende" a sua capacidade analítica antes mesmo do recrutador abrir o dashboard!
