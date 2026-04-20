@@ -19,7 +19,7 @@ O repositório está organizado de forma modular para refletir um fluxo de traba
     * [Diário do Projeto](https://github.com/databysabrina/Projeto_Indicadores_Educacionais/blob/537f36bce0351409de44bdd091c90431469e1965/docs/Di%C3%A1rio%20de%20Bordo.md): O diário de bordo com as fases de desenvolvimento.
 * **[`/scripts_SQL`](https://github.com/databysabrina/Projeto_Indicadores_Educacionais/tree/968955fe175ea88eb8fc1d93335bee9b30dcb565/scripts%20SQL):** Scripts de dados construído em SQL (PostgreSQL).
     * `00_VALIDAÇÃO_INICIAL.sql` até `05_EXPLORAÇÃO_ANALISE_TURMAS.sql`.
-* **[`/power_bi`](./power_bi):** Arquivo fonte `.pbix` e versão em PDF do relatório.
+* **[`/power_bi`](https://github.com/databysabrina/Projeto_Indicadores_Educacionais/tree/968955fe175ea88eb8fc1d93335bee9b30dcb565/power%20bi):** Arquivo fonte `.pbix` e versão em PDF do relatório.
 
 
 ---
