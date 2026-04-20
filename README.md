@@ -48,6 +48,12 @@ O design foi planejado para ser funcional e direto:
 * **UX Design:** Interface customizada via Canva para evitar poluição visual.
 * **Destaque Semafórico:** Uso de cores estratégicas para guiar o olhar do gestor para os pontos de atenção (Níveis Abaixo do Básico e Básico).
 
+### 4. Uso Estratégico de IA (Copiloto)
+A Inteligência Artificial foi integrada ao fluxo de trabalho como ferramenta de suporte e produtividade:
+* **Refino Técnico:** Auxílio na revisão de scripts SQL e sugestões de tratamento seguindo boas práticas.
+* **Documentação:** Estruturação técnica do Dicionário de Dados e tradução de conceitos complexos para uma linguagem acessível.
+* **Aprendizado:** Uso da ferramenta para explorar novas possibilidades de cálculos e intergração de SQL e Power BI.
+
 ---
 
 ## 📈 Principais Insights e Valor de Negócio
