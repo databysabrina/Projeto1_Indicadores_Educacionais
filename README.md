@@ -1,5 +1,5 @@
 # 📊 Dashboard de Performance Educacional: Análise de Indicadores
-<img width="1643" height="942" alt="image" src="https://github.com/user-attachments/assets/10171de3-f48b-495c-9c9c-4a66e4f55460" />
+<img width="1920" height="1080" alt="Design sem nome" src="https://github.com/user-attachments/assets/1fe613cc-b38a-40a8-9ba4-2f92d4fe93b3" />
 
 ---
 
