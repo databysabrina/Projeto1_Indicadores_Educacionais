@@ -49,8 +49,8 @@ Nesta fase, o foco foi a integridade técnica. Utilizou-se SQL (PostgreSQL) para
 * **Comparabilidade:** Criou-se um ranking de turmas baseado na média de proficiência para gerar insights competitivos, mas para fins pedagógicos.
 > [!NOTE]
 > Veja mais detalhes da visualização nos seguintes arquivos:
-> * [Assets](https://github.com/databysabrina/Projeto_Indicadores_Educacionais/blob/27fb5a59fee354a597d77b5ae86f56b593ff8b01/scripts%20SQL/04_EXPLORA%C3%87%C3%83O_ANALISE_GERAL.sql)
-> * [Power BI] (https://github.com/databysabrina/Projeto_Indicadores_Educacionais/blob/4e31982c305d3b805723afea0748d00ef8c54947/scripts%20SQL/05_EXPLORA%C3%87%C3%83O_ANALISE_TURMAS.sql)  
+> * [Assets] (https://github.com/databysabrina/Projeto_Indicadores_Educacionais/tree/38a57f2c3608db330256314daa9e8bcb50a7830f/assets)
+> * [Power BI] https://github.com/databysabrina/Projeto_Indicadores_Educacionais/blob/4e31982c305d3b805723afea0748d00ef8c54947/scripts%20SQL/05_EXPLORA%C3%87%C3%83O_ANALISE_TURMAS.sql)  
 >
 #### 📅 Etapa 6:Conclusão e Resultados Obtidos
 O projeto resultou em um ambiente de dados auditado e transparente.
