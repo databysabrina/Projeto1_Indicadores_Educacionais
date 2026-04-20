@@ -1,4 +1,4 @@
-# 📓 Diário do Projeto: Indicadores de Desempenho Educacional
+# 📓 Diário de Bordo do Projeto
 
 #### 📅 Etapa 1: Entendimento do Desafio e Definição de Escopo
 * **Objetivo Inicial:** Transformar dados brutos de avaliações externas em informações acionáveis para a gestão escolar. Antes de qualquer limpeza, realizei um Diagnóstico de Integridade via SQL.
