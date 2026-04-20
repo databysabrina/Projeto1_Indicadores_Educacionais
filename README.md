@@ -15,7 +15,7 @@ O repositório está organizado de forma modular para refletir um fluxo de traba
 * **[`/dados`](./dados):** Amostras dos dados originais e tabelas resultantes (`Analise Geral` e `Analise Turmas`).
 * **[`/docs`](./docs):** Documentação consultiva do projeto.
     * [Dicionário de Dados](https://github.com/databysabrina/Projeto_Indicadores_Educacionais/blob/0fbf8cacd97ae9d0a1208bd8bc2baaa81c9f63c2/docs/Dicion%C3%A1rio%20de%20Dados.md): Premissas e lógicas aplicadas.
-    * [Regras de Negócio](./docs/DICIONÁRIO_DADOS.md): Definição técnica de cada campo.
+    * [Regras de Negócio](https://github.com/databysabrina/Projeto_Indicadores_Educacionais/blob/eb660e00c92e356b46d47d933395d6f06c881bd7/docs/Regras%20de%20Neg%C3%B3cio.md): Definição técnica de cada campo.
     * [Journal do Projeto](./docs/JOURNAL.md): O diário de bordo com as fases de desenvolvimento.
 * **[`/scripts_SQL`](./scripts_SQL):** Pipeline de dados construído em SQL (PostgreSQL).
     * `00_VALIDAÇÃO_INICIAL.sql` até `05_EXPLORAÇÃO_ANALISE_TURMAS.sql`.
