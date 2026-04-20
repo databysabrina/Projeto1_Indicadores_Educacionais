@@ -5,7 +5,9 @@
 * **Validação de Unicidade:** Utilizei 'GROUP BY' e 'HAVING COUNT(*) > 1' para identificar duplicatas nas diferentes tabelas.
 * **Mapeamento de Nulos:** Através do 'COALESCE' e filtros de 'IS NULL', identifiquei campos críticos vazios em colunas como 'ID_TURMA' e 'TOTAL_QUESTOES'.
 * *Resultado do Diagnóstico:* Existiam inconsistências de diferentes dados e divergências entre o número de acertos e o nível de proficiência atribuído.
-
+> [!NOTE]
+> Veja os detalhes no script 01_LIMPEZA_ALUNOS.sql
+> 
 
 #### 📅 Etapa 2: Limpeza e Modelagem de Dados (ETL)
 Nesta fase, o foco foi a integridade técnica. Utilizou-se SQL (PostgreSQL) para aplicar as regras de ouro, dividindo em scripts modulares para garantir a rastreabilidade:
