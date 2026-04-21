@@ -10,10 +10,11 @@ Com as tabelas devidamente limpas e processadas via SQL, iniciei a fase de exper
 
 * **O que foi feito:** Testes de correlação entre acertos e proficiência; primeiras tentativas de visualização por turno e turma.
 * **Aprendizado:** Identificação de quais tipos de gráficos (barras, colunas ou rosca) melhor comunicavam cada regra de negócio.
-
-<img width="1491" height="658" alt="ETAPA 1 2" src="https://github.com/user-attachments/assets/e7e2baac-13cf-4c78-aa64-e008bb539557" />
-
-**Legenda:** Estrutura inicial da aba "ALERTAS" focada na validação visual das métricas.
+  
+<div align="center">
+  <img src="./assets/etapa1_visualizacao.png"](https://github.com/user-attachments/assets/e7e2baac-13cf-4c78-aa64-e008bb539557" width="70%">
+  <p><b>Figura 1:</b> Estrutura inicial focada na validação visual das métricas.</p>
+</div>
 
 ---
 
@@ -26,7 +27,8 @@ Nesta etapa, mergulhei nas funcionalidades nativas do Power BI para melhorar a u
 
 <img width="1459" height="798" alt="ETAPA 2 2" src="https://github.com/user-attachments/assets/602aa2a3-1e9e-4ec6-a7fa-32e7ecd5a73d" />
 
-> **Legenda:** Evolução do layout da aba "ALERTAS" com adição de elementos de interatividade (Slicers).
+
+**Legenda:** Evolução do layout da aba "ALERTAS" com adição de elementos de interatividade (Slicers).
 
 ---
 
@@ -39,15 +41,15 @@ Buscando um nível de entrega profissional, integrei o Power BI com ferramentas 
 
 <img width="1347" height="761" alt="ETAPA 3" src="https://github.com/user-attachments/assets/b9a00fe5-b9b3-44ac-8913-4f7db6b20b7e" />
 
-> **Legenda:** Versão final com layout personalizado e navegação por botões.
+
+**Legenda:** Versão final com layout personalizado e navegação por botões.
 
 ---
 
 ### 📊 Confira o Resultado em Tempo Real
-Para acessar as visualizações de todas as abas do Dashboard:
+Para acessar todas as interações, filtros e a navegação completa:
+
 > [!IMPORTANT]
 > [🔗 Clique aqui para acessar em PDF](https://github.com/databysabrina/Projeto_Indicadores_Educacionais/blob/ef49460aa329c95e1d32a8345be7b93b2dfdf427/power%20bi/Dashboard%20Final.pdf)
-
-Para acessar todas as interações, filtros e a navegação completa:
-> [!IMPORTANT]
+> 
 > [🔗 Clique aqui para acessar o arquivo .pbix](https://github.com/databysabrina/Projeto_Indicadores_Educacionais/blob/d5515bad44772f12e65689bf95151779ef2dbf8d/power%20bi/Dashboard.pbix)
