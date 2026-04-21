@@ -12,7 +12,7 @@ Com as tabelas devidamente limpas e processadas via SQL, iniciei a fase de exper
 * **Aprendizado:** Identificação de quais tipos de gráficos (barras, colunas ou rosca) melhor comunicavam cada regra de negócio.
   
 <div align="center">
-  <img src="./assets/etapa1_visualizacao.png"](https://github.com/user-attachments/assets/e7e2baac-13cf-4c78-aa64-e008bb539557" width="70%">
+  <img src="https://github.com/user-attachments/assets/e7e2baac-13cf-4c78-aa64-e008bb539557" width="70%">
   <p><b>Figura 1:</b> Estrutura inicial focada na validação visual das métricas.</p>
 </div>
 
@@ -25,10 +25,10 @@ Nesta etapa, mergulhei nas funcionalidades nativas do Power BI para melhorar a u
 * **Design:** Implementação de efeitos de bordas, sombras e seleção de uma paleta de cores mais harmônica.
 * **Interatividade:** Adição de **Segmentadores de Dados** para filtros por turma e **Cartões** para destacar KPIs (como média de proficiência geral).
 
-<img width="1459" height="798" alt="ETAPA 2 2" src="https://github.com/user-attachments/assets/602aa2a3-1e9e-4ec6-a7fa-32e7ecd5a73d" />
-
-
-**Legenda:** Evolução do layout da aba "ALERTAS" com adição de elementos de interatividade (Slicers).
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/602aa2a3-1e9e-4ec6-a7fa-32e7ecd5a73d" width="70%">
+  <p><b>Figura 2:</b> Evolução do layout da aba "ALERTAS" com adição de elementos de interatividade (Slicers). </p>
+</div>
 
 ---
 
@@ -39,10 +39,10 @@ Buscando um nível de entrega profissional, integrei o Power BI com ferramentas 
 * **Navegação entre Páginas:** Implementei botões interativos com a função de *Ação de Navegação*, permitindo que o usuário alterne entre a visão geral e a análise por turmas de forma fluida.
 * **Resultado Final:** Um dashboard com aspecto de software (SaaS), focado em **UX (User Experience)**.
 
-<img width="1347" height="761" alt="ETAPA 3" src="https://github.com/user-attachments/assets/b9a00fe5-b9b3-44ac-8913-4f7db6b20b7e" />
-
-
-**Legenda:** Versão final com layout personalizado e navegação por botões.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b9a00fe5-b9b3-44ac-8913-4f7db6b20b7e" width="70%">
+  <p><b>Figura 3:</b> Versão final com layout personalizado e navegação por botões. </p>
+</div>
 
 ---
 
