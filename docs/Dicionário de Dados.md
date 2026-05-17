@@ -38,7 +38,7 @@ Este documento detalha a estrutura das tabelas, tipos de dados e as definições
 
 #### Tabela Dimensão: Proficiencia
 > [!NOTE]
-> A Proficiencia nas próximas tabelas se refere ao domínio dos estudantes na disciplina de matemática, em uma avaliação externa. A classificação considera pontuações de diferentes questões, tempo de prova, dentre outros critérios.
+> A **Proficiencia** nas próximas tabelas se refere ao domínio dos estudantes na disciplina de matemática, em uma avaliação externa. A classificação considera pontuações de diferentes questões, tempo de prova, dentre outros critérios.
 
 | Coluna | Tipo | Descrição | Observações/Domínio |
 | :--- | :--- | :--- | :--- |
